@@ -1,4 +1,4 @@
-# trigger release 1
+# trigger release 2
 name: ci
 on:
   push:
